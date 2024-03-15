@@ -1,0 +1,58 @@
+body {
+    background-image: url('City\ Of\ Tomorrow\ 1.jpeg'); /* Replace with the actual background image URL */
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #ffffff; /* Text color */
+    padding: 20px;
+    }
+
+.center-container {
+    background-color: rgba(0, 0, 0, 0.7); /* Adjust the alpha value (last parameter) for transparency */
+    padding: 20px;
+    border-radius: 10px; /* Optional: add rounded corners to the text container */
+    }
+    
+h1 {
+    font-family: 'Trebuchet MS';
+    text-align: center;
+    font-size: 50px;
+    }
+
+button {
+    background-color: transparent;
+    color: white;
+    border-color: transparent;
+    font-size: 16px;
+    font-family: 'Trebuchet MS';
+    padding-left: 19px;
+    padding-right: 19px;
+    padding-top: 7px;
+    padding-bottom: 9px;
+    border: 1px solid #cccccc;
+    border-radius: 6px;
+    font-weight: 550;
+    margin-bottom: 25px;
+    }    
+.character-image {
+    display: block;
+    margin: 0 auto;
+    max-width: 25%;
+    height: auto;
+    border-radius: 50%; /* Adjust as needed */
+    }
+
+h2 {
+    font-family: 'Trebuchet MS';
+    text-align: center;
+    font-size: 30px;
+  }
+    
+.story-text {
+    font-family: 'Trebuchet MS';
+    font-size: 18px;
+    line-height: 1.9;
+    text-align: justify;
+    padding-left: 15px;
+    padding-right: 15px;
+    }
